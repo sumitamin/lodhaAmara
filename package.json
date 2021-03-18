@@ -1,0 +1,40 @@
+{
+  "name": "lodhacustomamara",
+  "version": "0.1.0",
+  "homepage": "./",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime-corejs3": "^7.12.5",
+    "anix": "^0.3.3",
+    "axios": "^0.21.0",
+    "jquery": "^3.2.1",
+    "particles-bg": "^2.3.12",
+    "react": "^16.2.0",
+    "react-accessible-accordion": "^3.3.3",
+    "react-dom": "^16.2.0",
+    "react-hook-form": "^6.13.0",
+    "react-modal": "^3.12.1",
+    "react-responsive-carousel": "^3.2.11",
+    "react-scripts": "4.0.3",
+    "react-simple-image-viewer": "0.0.8",
+    "react-tabs": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

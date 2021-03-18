@@ -1,0 +1,41 @@
+.banner-carousel{
+    position: absolute;
+    top:0
+}
+.thumbs-wrapper{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .contact-form{
+        display: none;
+    }
+}
+
+.contact-form{
+    position: fixed;
+    top: 100px;
+    background-color: white;
+    padding: 30px 20px;
+    right: 10px;
+    box-shadow: rgba(32, 33, 36, 0.28) 0px 1px 6px 0px;
+    border-radius: 8px;
+}
+
+.modal-form{
+    background-color: white;
+    padding: 30px 20px;
+}
+
+.input-label{
+    text-align: left;
+}
+
+.input-box{
+    height: 15px;
+}
+
+.button-wrapper{
+    margin-top: 10px;
+}
+
